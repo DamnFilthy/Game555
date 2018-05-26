@@ -1,0 +1,5 @@
+﻿  Game5.cpp
+d:\рабочий стол\с++\game5\game5\game5.cpp(43): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\рабочий стол\с++\game5\game5\game5.cpp(91): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\рабочий стол\с++\game5\game5\weapontype.h(46): warning C4715: GetWeaponDamage: значение возвращается не при всех путях выполнения
+  Game5.vcxproj -> D:\Рабочий стол\С++\Game5\x64\Debug\Game5.exe

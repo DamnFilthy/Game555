@@ -1,0 +1,9 @@
+﻿  Game5.cpp
+d:\рабочий стол\с++\game5\game5\game5.cpp(34): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\рабочий стол\с++\game5\game5\game5.cpp(163): error C2065: tempBuffer: необъявленный идентификатор
+d:\рабочий стол\с++\game5\game5\game5.cpp(164): error C2065: statusMessage: необъявленный идентификатор
+d:\рабочий стол\с++\game5\game5\game5.cpp(164): error C2065: tempBuffer: необъявленный идентификатор
+d:\рабочий стол\с++\game5\game5\game5.cpp(172): error C2065: tempBuffer: необъявленный идентификатор
+d:\рабочий стол\с++\game5\game5\game5.cpp(173): error C2065: statusMessage: необъявленный идентификатор
+d:\рабочий стол\с++\game5\game5\game5.cpp(173): error C2065: tempBuffer: необъявленный идентификатор
+d:\рабочий стол\с++\game5\game5\game5.cpp(240): error C3861: RevealFogOfWar: идентификатор не найден
